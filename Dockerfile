@@ -8,7 +8,7 @@
 # Contributors:
 #   Red Hat, Inc. - initial API and implementation
 
-FROM node:12.18.3-alpine
+FROM node:12.19.0-alpine
 
 ENV HOME=/home/theia
 
