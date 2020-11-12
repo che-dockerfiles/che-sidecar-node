@@ -1,7 +1,7 @@
 # che-sidecar-node
 Eclipse Che Sidecar container for node tooling
 
-This sidecar image is used to run Che Plug-ins in dedicated containers
+This repository is now archived. All sidecar definitions have been moved into the [che-plugin-registry](https://github.com/eclipse/che-plugin-registry).
 
 # Dockerfiles
 
